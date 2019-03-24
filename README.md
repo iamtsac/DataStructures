@@ -8,5 +8,6 @@
   2) git commit filename -m "what's the new change"
   3) git push -u origin master
 
+Υπαρχει ενα branch tester οπου θα τρεχουμε δοκιμαστικα τα προγραμματα και οταν κατι λειτουργει μονο τοτε θα τα κανουμε commit στο master branch!!
 
   *για να κανετε push φακελο πρεπει να εχει τουλαχιστον ενα αρχειο μεσα!
